@@ -22,15 +22,15 @@ Meu trabalho conecta a visão estratégica de arquitetura à entrega prática e 
 
 ---
 
-## 🏗️ Blueprints de Arquitetura em Destaque (Terraform & Cloud)
+## 🏗️ Blueprints de Arquitetura em Destaque (Terraform & Multicloud)
 
 > *Todos os repositórios abaixo representam padrões arquiteturais agnósticos inspirados em desafios reais de ambientes corporativos críticos, materializados em Infrastructure as Code (Terraform) e documentados sob um modelo de referência em 4 camadas.*
 
 | Repositório (Blueprint) | Foco Arquitetural & Valor de Negócio | Stack Principal |
 | :--- | :--- | :--- |
-| **[`aws-selfservice-data-transfer-blueprint`](#)** | **Governança & Industrialização de Transferência de Dados:** Módulo *Self-Service* para ingestão e migração crítica de dados com políticas automatizadas de ciclo de vida (FinOps), criptografia KMS e IAM de privilégio mínimo. | `Terraform` • `AWS DataSync` • `S3` • `KMS` • `IAM` |
-| **[`aws-event-driven-antimalware-pipeline`](#)** | **Arquitetura Segura de Transferência & Antimalware Serverless:** Esteira orientada a eventos para inspeção automatizada de arquivos externos em quarentena antes da promoção para buckets produtivos, com custo sob demanda. | `Terraform` • `S3` • `EventBridge` • `ECS/Lambda` • `ClamAV` |
-| **[`aws-hybrid-hub-spoke-landing-zone`](#)** | **Conectividade Híbrida & Segmentação de Redes:** Topologia *Hub-and-Spoke* multi-VPC com governança centralizada de tráfego de saída (*egress*), isolamento DMZ e interconexão *on-premises*. | `Terraform` • `Transit Gateway` • `VPC` • `VPN/Direct Connect` |
+| **[`aws-selfservice-data-transfer-blueprint`](https://github.com/leo-arquiteto/aws-selfservice-data-transfer-blueprint)** | **Governança & Industrialização de Transferência de Dados:** Módulo *Self-Service* para ingestão e migração crítica de dados com políticas automatizadas de ciclo de vida (FinOps), criptografia KMS e IAM de privilégio mínimo. | `Terraform` • `AWS DataSync` • `S3` • `KMS` • `IAM` |
+| **[`gcp-event-driven-antimalware-pipeline`](https://github.com/leo-arquiteto/gcp-event-driven-antimalware-pipeline)** | **Arquitetura Segura de Transferência & Antimalware Serverless:** Esteira orientada a eventos na GCP para inspeção automatizada de arquivos externos em quarentena antes da promoção para buckets produtivos, com escala zero e custo sob demanda. | `Terraform` • `Cloud Storage` • `Eventarc` • `Cloud Run` • `ClamAV` |
+| **[`aws-hybrid-hub-spoke-landing-zone`](https://github.com/leo-arquiteto/aws-hybrid-hub-spoke-landing-zone)** | **Conectividade Híbrida & Segmentação de Redes:** Topologia *Hub-and-Spoke* multi-VPC com governança centralizada de tráfego de saída (*egress*), isolamento DMZ e interconexão *on-premises*. | `Terraform` • `Transit Gateway` • `VPC` • `VPN/Direct Connect` |
 
 ---
 
