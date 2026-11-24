@@ -13,11 +13,11 @@
 
 <img src="./img/aws-saa.png" alt="AWS Certified Solutions Architect - Associate" width="110" />
 &nbsp;&nbsp;&nbsp;
-<img src="./aws-ccp.png.png" alt="AWS Certified Cloud Practitioner" width="110" />
+<img src="./img/aws-ccp.png" alt="AWS Certified Cloud Practitioner" width="110" />
 &nbsp;&nbsp;&nbsp;
-<img src="./Azure-AI900.png" alt="Microsoft Certified: Azure AI Fundamentals" width="110" />
+<img src="./img/Azure-AI900.png" alt="Microsoft Certified: Azure AI Fundamentals" width="110" />
 &nbsp;&nbsp;&nbsp;
-<img src="./aws-genai.png.png" alt="AWS Educate Introduction to Generative AI" width="110" />
+<img src="./img/aws-genai.png" alt="AWS Educate Introduction to Generative AI" width="110" />
 
 </div>
 
