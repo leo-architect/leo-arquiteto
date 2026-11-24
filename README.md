@@ -1,15 +1,21 @@
+<div align="center">
+
 # Leonardo Rodrigues Paixão
 ### Arquiteto de Infraestrutura | Cloud, Ambientes Híbridos e Infraestrutura como Código (Terraform)
 
 **Português** • [English Version](#-english-version)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodrigues-paixao)
+<a href="https://www.linkedin.com/in/leonardo-rodrigues-paixao" target="_blank">
+  <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br/>
 
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud-Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate" />
+<img src="https://img.shields.io/badge/AWS_Cloud-Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-AI_Fundamentals_(AI--900)-0089D6?style=for-the-badge&logoColor=white" alt="Azure AI Fundamentals" />
 
-![Azure AI-900](https://img.shields.io/badge/Azure-AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+</div>
 
 ---
 
