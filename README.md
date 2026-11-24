@@ -4,9 +4,9 @@
 **Português** • [English Version](#-english-version)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodrigues-paixao)
-[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
-[![AWS CCP](https://img.shields.io/badge/AWS_Cloud-Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]()
-[![Azure AI-900](https://img.shields.io/badge/Azure-AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud-Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure AI-900](https://img.shields.io/badge/Azure-AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
