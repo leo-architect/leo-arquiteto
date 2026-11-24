@@ -9,11 +9,15 @@
   <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate" />
-<img src="https://img.shields.io/badge/AWS_Cloud-Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-AI_Fundamentals_(AI--900)-0089D6?style=for-the-badge&logoColor=white" alt="Azure AI Fundamentals" />
+<img src="./aws-saa.png.png" alt="AWS Certified Solutions Architect - Associate" width="110" />
+&nbsp;&nbsp;&nbsp;
+<img src="./aws-ccp.png.png" alt="AWS Certified Cloud Practitioner" width="110" />
+&nbsp;&nbsp;&nbsp;
+<img src="./Azure-AI900.png" alt="Microsoft Certified: Azure AI Fundamentals" width="110" />
+&nbsp;&nbsp;&nbsp;
+<img src="./aws-genai.png.png" alt="AWS Educate Introduction to Generative AI" width="110" />
 
 </div>
 
