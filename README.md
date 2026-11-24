@@ -46,9 +46,9 @@ Minha atuação conecta a visão estratégica de arquitetura à entrega prática
 
 > *Todos os repositórios abaixo representam padrões arquiteturais agnósticos inspirados em desafios reais de ambientes corporativos críticos, materializados em Infrastructure as Code (Terraform) e documentados com práticas de mercado (HLD/LLD, Blueprints, ADRs e diagramas Draw.io).*
 
-| Repositório (Blueprint) | Foco Arquitetural & Valor de Negócio | Stack Principal |
+| Repositório (Blueprint) | Foco Arquitetural & Valor de Negócio | Stack Principal | 
 | :--- | :--- | :--- |
-| **[`aws-selfservice-data-transfer-blueprint`](https://github.com/leo-arquiteto/aws-selfservice-data-transfer-blueprint)** | **Governança & Industrialização de Transferência de Dados:** Módulo *Self-Service* para ingestão e migração crítica de dados com políticas automatizadas de ciclo de vida (FinOps), criptografia KMS e IAM de privilégio mínimo. | `Terraform` • `AWS DataSync` • `S3` • `KMS` • `IAM` |
+| **[`aws-selfservice-data-transfer-blueprint`](https://github.com/leo-architect/aws-selfservice-data-transfer-blueprint)** | **Governança & Industrialização de Transferência de Dados:** Módulo *Self-Service* para ingestão e migração crítica de dados com políticas automatizadas de ciclo de vida (FinOps), criptografia KMS e IAM de privilégio mínimo. | `Terraform` • `AWS DataSync` • `S3` • `KMS` • `IAM` |
 | **[`gcp-event-driven-antimalware-pipeline`](#)** | **Arquitetura Segura de Transferência & Antimalware Serverless:** Esteira orientada a eventos na GCP para inspeção automatizada de arquivos externos em quarentena antes da promoção para buckets produtivos, com custo sob demanda. | `Terraform` • `Cloud Storage` • `Eventarc` • `Cloud Run` • `ClamAV` |
 | **[`aws-hybrid-hub-spoke-landing-zone`](#)** | **Conectividade Híbrida & Segmentação de Redes:** Topologia *Hub-and-Spoke* multi-VPC com governança centralizada de tráfego de saída (*egress*), isolamento DMZ, conectividade privada SaaS e interconexão *on-premises*. | `Terraform` • `Transit Gateway` • `VPC` • `PrivateLink` • `Direct Connect` |
 
