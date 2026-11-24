@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="./aws-saa.png.png" alt="AWS Certified Solutions Architect - Associate" width="110" />
+<img src="./img/aws-saa.png" alt="AWS Certified Solutions Architect - Associate" width="110" />
 &nbsp;&nbsp;&nbsp;
 <img src="./aws-ccp.png.png" alt="AWS Certified Cloud Practitioner" width="110" />
 &nbsp;&nbsp;&nbsp;
